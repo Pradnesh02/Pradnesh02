@@ -101,15 +101,15 @@ A CI/CD-style pipeline that tests any LLM-powered feature against a human-labele
 </details>
 
 <details open>
-<summary><b>▶ Blood Bank Management Web Application &mdash; Healthcare Platform</b></summary>
+<summary><b>▶ Blood Bank Web App &mdash; AI/ML Healthcare Inventory & Forecasting Platform</b></summary>
 <br />
-A web platform connecting blood donors, hospitals, and blood banks to manage blood inventory, donor registrations, urgent request fulfillment, and real-time blood group availability tracking.
+An AI-driven blood bank platform featuring demand forecasting, ML donor eligibility tracking, weight validation, appointment booking, and automated healthcare inventory fulfillment.
 
 | Aspect | Detail |
 | :--- | :--- |
-| **Stack** | Node.js · Express · JavaScript · HTML/CSS · MySQL / MongoDB |
-| **Features** | Real-time blood availability search, donor registration & eligibility tracking, urgent request broadcasting |
-| **Use Case** | Streamlining critical healthcare blood supply chains and donor-recipient matching |
+| **Stack** | Python · Flask · PostgreSQL · scikit-learn (RandomForest) · Meta Prophet · Tailwind CSS · Plotly.js |
+| **Features** | AI demand forecasting, ML donor eligibility tracking, appointment booking, weight validation & campaign notice board |
+| **Use Case** | Automating blood supply forecasting, donor eligibility verification, and critical healthcare inventory fulfillment |
 | **Repo** | [github.com/Pradnesh02/Blood-Bank-Web-app](https://github.com/Pradnesh02/Blood-Bank-Web-app) |
 </details>
 
