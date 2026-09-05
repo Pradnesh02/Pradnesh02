@@ -71,6 +71,20 @@ OPEN_TO   =  AI Engineering Internships | New Grad SWE Roles
 ### > ls /projects --sort=impact
 
 <details open>
+<summary><b>▶ RTI Sahayak — Grounded RTI Application Drafter & Statutory Deadline Tracker</b></summary>
+<br />
+A citizen-facing AI platform that turns plain-language grievance descriptions into legally-grounded Right to Information Act applications, featuring two-check statutory grounding, clause-level citation provenance, and statutory deadline tracking.
+
+| Aspect | Detail |
+| :--- | :--- |
+| **Stack** | Python · FastAPI · Streamlit · ChromaDB · Groq · Gemini · Anthropic · Jinja2 |
+| **Architecture** | Two-check grounding design (corpus health check + LLM scope classifier), 3-provider resiliency fallback chain |
+| **Features** | Clause-level citation chips, statutory deadline tracking (/track), browser-native draft saving, multilingual support, PDF export |
+| **Eval & Scope** | Evaluated on 113-case dataset (0.000 false refusal rate vs 0.283 baseline), 27-case automated regression suite |
+| **Repo** | [github.com/Pradnesh02/rti-sahayak](https://github.com/Pradnesh02/rti-sahayak) |
+</details>
+
+<details open>
 <summary><b>▶ DocuMesh — Multi-Agent Compliance Intelligence Platform</b></summary>
 <br />
 A multi-agent document-intelligence pipeline for compliance analysis, built with an Extractor → Retriever → Risk-Analyst → Verifier/Critic agent chain, backed by hybrid retrieval and a CI-integrated evaluation harness.
@@ -157,6 +171,7 @@ learning:
   - LLM evaluation methodology (statistical significance, judge calibration)
 
 building:
+  - RTI-Sahayak               # grounded RTI application drafter & deadline tracker
   - DocuMesh                  # multi-agent compliance intelligence platform
   - ModelRegressionSystem     # CI/CD pipeline for LLM regression testing
 
