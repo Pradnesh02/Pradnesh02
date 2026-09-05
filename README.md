@@ -138,21 +138,21 @@ An AI-driven blood bank platform featuring demand forecasting, ML donor eligibil
 ### > git stats --global
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Pradnesh02&show_icons=true&hide_border=true&title_color=CBA6F7&icon_color=A6E3A1&text_color=CDD6F4&bg_color=1E1E2E" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pradnesh02&theme=dracula" />
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Pradnesh02&hide_border=true&background=1E1E2E&stroke=CBA6F7&ring=A6E3A1&fire=CBA6F7&currStreakLabel=CBA6F7" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Pradnesh02&layout=compact&hide_border=true&langs_count=8&title_color=CBA6F7&text_color=CDD6F4&bg_color=1E1E2E" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pradnesh02&theme=dracula" />
 </div>
 
 ### > trophy-case --display
 
 <div align="center">
-  <img src="https://github-profile-trophy-nu.vercel.app/?username=Pradnesh02&theme=dracula&no-frame=true&no-bg=true&margin-w=4&column=7" />
+  <img src="https://github-profile-trophy-nu.vercel.app/?username=Pradnesh02&theme=dracula&no-frame=true&no-bg=true&margin-w=4&title=Commits,Stars,Repositories,Experience" />
 </div>
 
 ### > activity-graph --timeline
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.ansub.me/graph?username=Pradnesh02&bg_color=1E1E2E&color=CBA6F7&line=A6E3A1&point=CBA6F7&area=true&area_color=313244&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Pradnesh02&theme=dracula" />
 </div>
 
 ### > ./snake-animation.sh
