@@ -1,27 +1,29 @@
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=1E1E2E&fontColor=CBA6F7&text=%3E_%20PRADNESH%20KHASNIS&fontSize=38&desc=AI-Focused%20Software%20Engineer%20%E2%80%94%20Final%20Year%20CSE&descColor=A6E3A1&animation=fadeIn&fontAlignY=35&descAlignY=55" />
   <br />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=800&color=CBA6F7&center=true&vCenter=true&width=820&lines=%24+whoami+%E2%86%92+CSE+Student+%7C+AI+Engineering;%24+skills+%E2%86%92+Python+%7C+Java+%7C+React+%7C+Node.js;%24+cat+building.txt+%E2%86%92+Multi-agent+%2B+Eval+Systems;%24+status+%E2%86%92+Open+to+Internships+%2F+New+Grad+Roles" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=800&color=CBA6F7&center=true&vCenter=true&width=820&lines=%24+whoami+%E2%86%92+CSE+Student+%7C+AI+Engineering;%24+skills+%E2%86%92+Python+%7C+FastAPI+%7C+Flask+%7C+React;%24+cat+building.txt+%E2%86%92+RAG+%2B+LLM+Eval+Systems;%24+status+%E2%86%92+Open+to+Internships+%2F+New+Grad+Roles" />
   <br /><br />
 
   <a href="https://github.com/Pradnesh02"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/pradnesh02"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:pradneshkhasnis@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/pradnesh-khasnis-a146a9358/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:pradneshkhasnis02@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://rti-sahayak-smoky.vercel.app/"><img src="https://img.shields.io/badge/Live-RTI%20Sahayak-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </div>
 
 <br />
 
 > **whoami**
 
-Final-year Computer Science & Engineering student focused on AI engineering — I build production-style systems, not just tutorials. My recent work centers on multi-agent LLM pipelines and evaluation infrastructure: systems that don't just generate outputs, but verify, score, and catch their own regressions before they ship.
+Final-year Computer Science & Engineering student focused on AI engineering — I build and deploy production-style systems, not just tutorials. My recent work centers on retrieval-augmented LLM apps and evaluation infrastructure: systems that don't just generate outputs, but verify, score, and catch their own regressions before they ship.
 
 ```bash
 $ cat .profile
 
-ROLE      =  CSE Student (Final Year) — AI Engineering Focus
-STACK     =  Python | Java | C++ | JavaScript | React | Node.js
+ROLE      =  B.Tech CSE (Final Year) — AI Engineering Focus
+STACK     =  Python | Java | C++ | JavaScript | SQL
+WEB       =  FastAPI | Flask | Node.js | Express | React | TailwindCSS
+AI/ML     =  RAG | Chroma | Scikit-Learn | Prompt Engineering | LLM Evaluation
 DATABASES =  MySQL | PostgreSQL | MongoDB
-INTEREST  =  Multi-agent systems | LLM eval & observability | Full-stack AI apps
 OPEN_TO   =  AI Engineering Internships | New Grad SWE Roles
 ```
 
@@ -35,7 +37,7 @@ OPEN_TO   =  AI Engineering Internships | New Grad SWE Roles
 
 **[ Backend ]**
 <br />
-<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
+<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express&theme=dark" />
 
 <br />
 
@@ -53,7 +55,7 @@ OPEN_TO   =  AI Engineering Internships | New Grad SWE Roles
 
 **[ Tools & DevOps ]**
 <br />
-<img src="https://skillicons.dev/icons?i=docker,vscode,git,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=docker,githubactions,vercel,git,github,vscode&theme=dark" />
 
 ---
 
@@ -61,10 +63,19 @@ OPEN_TO   =  AI Engineering Internships | New Grad SWE Roles
 
 | Domain | Focus | Details |
 | :--- | :--- | :--- |
-| **AI Engineering** | Applied | Multi-agent pipelines, RAG, LLM eval harnesses |
-| **Backend Development** | Applied | REST APIs with Node.js/Express, relational + document DBs |
-| **Frontend Development** | Applied | React + TailwindCSS component-driven UIs |
-| **DevOps Fundamentals** | Learning | Docker containerization, CI/CD basics |
+| **AI Engineering** | Applied | RAG pipelines, grounding gates, LLM eval harnesses |
+| **Backend Development** | Applied | REST APIs with FastAPI / Flask / Express, relational + document DBs |
+| **Frontend Development** | Applied | React + TailwindCSS, Jinja2 server-rendered UIs |
+| **DevOps** | Applied | Docker, GitHub Actions CI, Pytest, Vercel / Render deployments |
+
+---
+
+### > cat experience.log
+
+| Role | Organization | Period |
+| :--- | :--- | :--- |
+| **Artificial Intelligence Intern** | Naviotech Solution Pvt. Ltd. | Jun 2026 – Aug 2026 |
+| **AI-ML Virtual Intern** (Grade: Outstanding) | AICTE · EduSkills · Google for Developers | Apr 2026 – Jun 2026 |
 
 ---
 
@@ -73,14 +84,19 @@ OPEN_TO   =  AI Engineering Internships | New Grad SWE Roles
 <details open>
 <summary><b>▶ RTI Sahayak — Grounded RTI Application Drafter & Statutory Deadline Tracker</b></summary>
 <br />
-A citizen-facing AI platform that turns plain-language grievance descriptions into legally-grounded Right to Information Act applications, featuring two-check statutory grounding, clause-level citation provenance, and statutory deadline tracking.
+A citizen-facing AI platform that turns plain-language grievance descriptions into legally-grounded Right to Information Act applications, with section-level citations grounded in retrieved statutory text and support for English, Hindi, and Marathi.
+
+**🔗 Live App: [rti-sahayak-smoky.vercel.app](https://rti-sahayak-smoky.vercel.app/)**
 
 | Aspect | Detail |
 | :--- | :--- |
-| **Stack** | Python · FastAPI · Streamlit · ChromaDB · Groq · Gemini · Anthropic · Jinja2 |
-| **Architecture** | Two-check grounding design (corpus health check + LLM scope classifier), 3-provider resiliency fallback chain |
-| **Features** | Clause-level citation chips, statutory deadline tracking (/track), browser-native draft saving, multilingual support, PDF export |
-| **Eval & Scope** | Evaluated on 113-case dataset (0.000 false refusal rate vs 0.283 baseline), 27-case automated regression suite |
+| **Stack** | Python · FastAPI · ChromaDB · ONNX MiniLM · Groq · Gemini · Anthropic · Jinja2 |
+| **Architecture** | Two-check grounding gate (deterministic statutory retrieval + LLM scope verdict), 3-provider LLM fallback chain, per-IP rate limiting |
+| **Corpus** | 81 boundary-aligned chunks covering all 31 sections of the RTI Act |
+| **Features** | Clause-level citation chips, statutory deadline tracking (/track), browser-native draft saving, multilingual drafting, PDF export |
+| **Eval** | 113-case labeled set: F1 0.63 → 0.95, false refusals 28.3% → 0%; 27-case automated regression suite |
+| **Efficiency** | PyTorch → ONNX embeddings cut peak memory to 288 MB (fits a 512 MB tier) |
+| **Live** | [rti-sahayak-smoky.vercel.app](https://rti-sahayak-smoky.vercel.app/) |
 | **Repo** | [github.com/Pradnesh02/rti-sahayak](https://github.com/Pradnesh02/rti-sahayak) |
 </details>
 
@@ -115,15 +131,15 @@ A CI/CD-style pipeline that tests any LLM-powered feature against a human-labele
 </details>
 
 <details open>
-<summary><b>▶ Blood Bank Web App &mdash; AI/ML Healthcare Inventory & Forecasting Platform</b></summary>
+<summary><b>▶ Blood Bank Web App — AI/ML Healthcare Inventory & Forecasting Platform</b></summary>
 <br />
-An AI-driven blood bank platform featuring demand forecasting, ML donor eligibility tracking, weight validation, appointment booking, and automated healthcare inventory fulfillment.
+A full-stack blood bank platform with role-based admin/user dashboards, 7-day demand forecasting, ML donor eligibility prediction, low-stock email alerts, and automated PDF reporting.
 
 | Aspect | Detail |
 | :--- | :--- |
-| **Stack** | Python · Flask · PostgreSQL · scikit-learn (RandomForest) · Meta Prophet · Tailwind CSS · Plotly.js |
-| **Features** | AI demand forecasting, ML donor eligibility tracking, appointment booking, weight validation & campaign notice board |
-| **Use Case** | Automating blood supply forecasting, donor eligibility verification, and critical healthcare inventory fulfillment |
+| **Stack** | Python · Flask · PostgreSQL · SQLAlchemy · Flask-Migrate · scikit-learn · Meta Prophet · Tailwind CSS · Plotly.js |
+| **Features** | Demand forecasting, donor eligibility prediction, appointment booking, low-stock alerts, ReportLab PDF reports |
+| **Engineering** | Blueprint-based modular routing, Flask-Login + Bcrypt auth, versioned migrations, Pytest-validated flows |
 | **Repo** | [github.com/Pradnesh02/Blood-Bank-Web-app](https://github.com/Pradnesh02/Blood-Bank-Web-app) |
 </details>
 
@@ -131,7 +147,15 @@ An AI-driven blood bank platform featuring demand forecasting, ML donor eligibil
 
 ### > cat education.log
 
-**[Current]** B.E. Computer Science & Engineering — Final Year
+**[Current]** B.Tech Computer Science & Engineering — D.Y. Patil College of Engineering & Technology, Kolhapur
+<br />
+Expected May 2027 · CGPA 7.93/10 (through Sem 7)
+
+### > cat achievements.log
+
+- 🏆 Top 5 rank in a regional technical hackathon
+- 💻 450+ problems solved on LeetCode (97.4% acceptance rate)
+- 📜 Certifications: AI Fluency (Anthropic) · Docker Essentials (IBM) · Foundations of Prompt Engineering (AWS) · Python with DSA Bootcamp (Udemy)
 
 ---
 
@@ -170,8 +194,10 @@ learning:
   - Multi-agent orchestration with LangGraph
   - LLM evaluation methodology (statistical significance, judge calibration)
 
+shipped:
+  - RTI-Sahayak               # live: https://rti-sahayak-smoky.vercel.app/
+
 building:
-  - RTI-Sahayak               # grounded RTI application drafter & deadline tracker
   - DocuMesh                  # multi-agent compliance intelligence platform
   - ModelRegressionSystem     # CI/CD pipeline for LLM regression testing
 
@@ -189,8 +215,8 @@ open_to:
 ### > ping me
 
 <div align="center">
-  <a href="https://linkedin.com/in/pradnesh02"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:pradneshkhasnis@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/pradnesh-khasnis-a146a9358/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:pradneshkhasnis02@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/Pradnesh02"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </div>
 
