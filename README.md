@@ -8,6 +8,8 @@
   <a href="https://www.linkedin.com/in/pradnesh-khasnis-a146a9358/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:pradneshkhasnis02@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://rti-sahayak-smoky.vercel.app/"><img src="https://img.shields.io/badge/Live-RTI%20Sahayak-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://g52-web.vercel.app"><img src="https://img.shields.io/badge/Live-SafeSQL-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://studymate-ai-tutor.vercel.app/"><img src="https://img.shields.io/badge/Live-StudyMate%20AI-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </div>
 
 <br />
@@ -55,7 +57,7 @@ OPEN_TO   =  AI Engineering Internships | New Grad SWE Roles
 
 **[ Tools & DevOps ]**
 <br />
-<img src="https://skillicons.dev/icons?i=docker,githubactions,vercel,git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=docker,githubactions,vercel,git,github,vscode,claude&theme=dark" />
 
 ---
 
@@ -98,6 +100,39 @@ A citizen-facing AI platform that turns plain-language grievance descriptions in
 | **Efficiency** | PyTorch → ONNX embeddings cut peak memory to 288 MB (fits a 512 MB tier) |
 | **Live** | [rti-sahayak-smoky.vercel.app](https://rti-sahayak-smoky.vercel.app/) |
 | **Repo** | [github.com/Pradnesh02/rti-sahayak](https://github.com/Pradnesh02/rti-sahayak) |
+</details>
+
+<details open>
+<summary><b>▶ SafeSQL — Guardrailed Text-to-SQL Assistant</b></summary>
+<br />
+An LLM assistant that converts natural language into SQL over any PostgreSQL schema, wrapped in a layered safety stack so generated queries can't destroy data, leak rows across users, or pass off hallucinated answers as fact.
+
+**🔗 Live App: [g52-web.vercel.app](https://g52-web.vercel.app)**
+
+| Aspect | Detail |
+| :--- | :--- |
+| **Stack** | Python · FastAPI · PostgreSQL · sqlglot · LLMs · Docker |
+| **Safety Stack** | 4 layers — LLM refusal, AST-based query blocking (sqlglot), read-only DB roles, per-user Row-Level Security |
+| **Confidence** | Calibrated confidence scoring flags likely-hallucinated queries |
+| **Research** | Execution-match leniency flips signal AUROC from 0.53 → 0.73 — core of an IEEE paper in progress |
+| **Live** | [g52-web.vercel.app](https://g52-web.vercel.app) |
+| **Repo** | [github.com/Text-To-SQL-Project/G-52-Project](https://github.com/Text-To-SQL-Project/G-52-Project) |
+</details>
+
+<details open>
+<summary><b>▶ StudyMate AI — RAG Study Assistant</b></summary>
+<br />
+A RAG tutor that answers only from a student's uploaded notes, with citations — then quizzes them on the material and tracks which topics are still weak.
+
+**🔗 Live App: [studymate-ai-tutor.vercel.app](https://studymate-ai-tutor.vercel.app/)**
+
+| Aspect | Detail |
+| :--- | :--- |
+| **Stack** | React · Node.js · Express.js · MongoDB Atlas · Gemini · Stripe |
+| **Retrieval** | Gemini embeddings + Atlas Vector Search; answers grounded only in uploaded notes, with citations |
+| **Learning Loop** | AI-generated quizzes, server-side grading, weak-topic dashboard |
+| **Platform** | JWT authentication, Stripe billing via webhooks |
+| **Live** | [studymate-ai-tutor.vercel.app](https://studymate-ai-tutor.vercel.app/) |
 </details>
 
 <details open>
@@ -196,6 +231,8 @@ learning:
 
 shipped:
   - RTI-Sahayak               # live: https://rti-sahayak-smoky.vercel.app/
+  - SafeSQL                   # live: https://g52-web.vercel.app
+  - StudyMate-AI              # live: https://studymate-ai-tutor.vercel.app/
 
 building:
   - DocuMesh                  # multi-agent compliance intelligence platform
